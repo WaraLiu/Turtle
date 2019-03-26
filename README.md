@@ -1,3 +1,3 @@
-# 海龟绘图
+# 海龟绘图turtle
 
-# 转自https://www.zhihu.com/question/271643290
+# from https://www.zhihu.com/question/271643290
